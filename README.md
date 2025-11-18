@@ -10,6 +10,6 @@ If using Google Colab:
 !rm -rf cmpe-256-project
 
 # Data folder should be available on Colab notebook
-df = pd.DataFrame("data/train_2_long.csv")
+df = pd.read_csv("data/train_2_long.csv")
 ....
 ```
