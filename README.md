@@ -15,7 +15,7 @@ df = pd.read_csv("data/train_2_long.csv")
 ```
 
 ## Implementation Details
-The following `README.md` file is available under this (folder)[harshit/README.md]
+The following `README.md` file is available under this [folder](harshit/README.md)
 
 ### CMPE 256 Project: Music Playlist Continuation
 
